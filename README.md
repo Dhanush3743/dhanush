@@ -1,2 +1,3 @@
-# dhanush
-this is my portfolio
+# Dhanush Portfolio
+
+Professional Video Editor showcase.
